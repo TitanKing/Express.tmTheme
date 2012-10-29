@@ -4,7 +4,7 @@ Express Colour Scheme For Sublime Text 2
 This is a syntax highlighting colour scheme for Sublime Text 2. 
 Built using soft pastel colours helping ease eye strain.
 
-I spend quite a lot of time with this to make it feel very light for my own eyes.
+I spend quite a lot of time with this to make it feel very light on the eyes.
 
 Installation
 ------------
