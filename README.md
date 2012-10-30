@@ -17,6 +17,10 @@ Then, in Sublime Text 2, goto:
 
 to activate the Express color scheme.
 
+Screenshot
+----------
+![Express Screenshot](http://i.imgur.com/AokRd.png)
+
 Feedback, Pull Requests Welcome
 -------------------------------
 
