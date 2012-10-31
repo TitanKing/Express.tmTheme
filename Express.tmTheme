@@ -84,7 +84,7 @@
                 <key>fontStyle</key>
                 <string></string>
 				<key>background</key>
-				<string></string>
+				<string>#33373D</string>
 				<key>foreground</key>
 				<string>#7587A6</string>
             </dict>
