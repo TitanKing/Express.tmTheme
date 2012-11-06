@@ -6,8 +6,13 @@ Built using soft pastel colors helping ease eye strain during prolonged programm
 
 I spend quite a lot of time with this to make it feel very light on the eyes.
 
-Installation
-------------
+Easy Installation
+-----------------
+
+Simply install from Sublime package manager. Awesome!
+
+Manual Installation
+-------------------
 
 Clone/copy the repo folder (unzipped) into your Packages/ folder. In Linux it is under ~/.config/sublime-text-2/Packages/Express Color Scheme/
 
